@@ -6,7 +6,7 @@ Python 2.7
 
 ## Dependencies
 - Numpy
-- PIL
+- PIL  
 *This code doesn't depend on OpenCV but only Numpy and PIL, so it can be used on Google App Engine :)*
 
 ## Set up commands
