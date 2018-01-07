@@ -1,5 +1,9 @@
 # pil-numpy-homography-sample
-Sample code for homography 
+A sample code for homography image transformation.
+
+| before | after |
+|--------|-------|
+| ![homography_transformation_before](https://i.imgur.com/nxubp16.jpg) | ![homography_transformation_after](https://i.imgur.com/VDTD6iJ.jpg) |
 
 ## Environment
 Python 2.7  
